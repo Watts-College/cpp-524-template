@@ -20,7 +20,7 @@ info:
  class_meets_where:  'https://asu.zoom.us/j/84210278039'
  review_sessions_when: TBD 
  review_sessions_where: Zoom
- discussion_board_url: 'https://ds4ps.org/cpp-524-spr-2021/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-524-template/help/'
 
 instructor:
 -  name: Jesse Lecy
