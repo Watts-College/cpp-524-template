@@ -371,9 +371,9 @@ Skim: Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, 
 
 Ben Wellington makes great use of counterfactual reasoning to make a pursuasive argument regarding children left unsupervised from 3pm when school gets out until 6pm when their parents arrive home from work. Note the clever use of weekends and school holidays as the counterfactual. Regression models are not necessary to make the case - these types of visual arguments are often more accessible to a larger audience. 
 
-[I Quant NY](https://iquantny.tumblr.com/post/142278062424/in-nyc-more-robberies-happen-right-when-school)
+[I Quant NY: More Robberies Happen Right When School Gets Out than Any Other Time](https://iquantny.tumblr.com/post/142278062424/in-nyc-more-robberies-happen-right-when-school)
 
-If you wanted to model this data using a regression, what type of counterfactual would be appropriate? 
+If you wanted to model this data using a regression, which type of counterfactual design would be appropriate? 
 
 **Key Take-Aways**  
 
